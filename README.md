@@ -12,6 +12,8 @@
 
 **智控先锋** — 端侧手机 GUI Agent 的原型设计。用无障碍服务把界面序列化为紧凑 UI 树，交给端侧 MiniCPM-V 直接输出下一步动作，形成「感知—理解—执行」闭环；目标是在 6GB 内存的中端手机上离线完成基础任务。[设计文档 →](https://github.com/mountmyj/mobile-gui-agent)
 
+**五子棋** — 单文件 HTML5 Canvas 五子棋，人机四档 AI（入门 / 进阶 / 高手 / 大师）+ 双人对弈，零依赖，打开网页就能玩。[试玩 →](https://mountmyj.github.io/gomoku/) · [源码 →](https://github.com/mountmyj/gomoku)
+
 </td>
 <td width="44%" valign="top">
 
@@ -20,7 +22,8 @@
 Python · Tkinter · Playwright  
 requests · m3u8 · AES-128  
 FFmpeg · VLC · pytest  
-MiniCPM-V · Accessibility Service
+MiniCPM-V · Accessibility Service  
+HTML5 Canvas · GitHub Pages
 
 </td>
 </tr>
